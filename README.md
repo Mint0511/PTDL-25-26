@@ -1,4 +1,4 @@
-# **PHÂN TÍCH KHÁM PHÁ VỀ BỆNH ĐÁI THÁO ĐƯỜNG**
+# **PHÂN TÍCH KHÁM PHÁ DỮ LIỆU**
 # **MÔN HỌC: PHÂN TÍCH DỮ LIỆU**
 
 **GIẢNG VIÊN HƯỚNG DẪN:** TS. ĐỖ NHƯ TÀI
