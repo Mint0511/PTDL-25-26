@@ -92,6 +92,19 @@ CHI TIẾT CÁC BÀI HỌC VÀ DỰ ÁN
    └─ Nội dung:  Xây dựng ứng dụng dashboard trực quan hóa dữ liệu tài chính,
        phân tích các chỉ số tài chính
 
+---
+
+📁 8. PhanTichWalmart_Final_Nhom 20_NguyenVanMinh_3122410242/
+   ├─ Chủ đề: PHÂN TÍCH DỮ LIỆU WALMART - BÁO CÁO CUỐI KỲ (Nhóm 20)
+   ├─ Files chính:
+   │  • PhanTichWalmart_Final_Nhom 20_NguyenVanMinh_3122410242.pdf
+   │    → Báo cáo cuối kỳ hoàn chỉnh
+   │  • PhanTichWalmart_Final_Nhom 20_NguyenVanMinh_3122410242.pptx
+   │    → Slide thuyết trình báo cáo cuối kỳ
+   ├─ Thư mục Code/
+   │  → Chứa mã nguồn phân tích chính thức
+   └─ Nội dung: Tổng hợp và hoàn thiện phân tích dữ liệu Walmart, kết luận và đề xuất.
+
 ================================================================================
 
 TỔNG KẾT NỘI DUNG HỌC TẬP
@@ -102,7 +115,7 @@ TỔNG KẾT NỘI DUNG HỌC TẬP
 ✓ Kỹ thuật NumPy nâng cao
 ✓ Bài toán phân loại (Classification)
 ✓ Phân tích dữ liệu y tế (bệnh đái tháo đường)
-✓ Phân tích dữ liệu kinh doanh (Walmart sales data)
+✓ Phân tích dữ liệu kinh doanh (Walmart sales data - Nộp L1, L2 & Final)
 ✓ Xây dựng dashboard trực quan hóa dữ liệu tài chính
 ✓ Báo cáo và trình bày kết quả phân tích
 
@@ -112,13 +125,12 @@ TỔNG KẾT NỘI DUNG HỌC TẬP
 NGÔN NGỮ LẬP TRÌNH VÀ CÔNG CỤ
 
 
-• Jupyter Notebook: 56.2%
-• HTML:  43.3%
-• Python: 0.5%
+• Jupyter Notebook: 57.7%
+• HTML:  41.7%
+• Python: 0.6%
 
 Công cụ chính:  Jupyter Notebook, Python, Pandas, NumPy, Matplotlib/Seaborn
 
 ================================================================================
 
-Cập nhật:  11/12/2025
-
+Cập nhật:  20/12/2025
